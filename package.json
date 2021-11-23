@@ -1,0 +1,25 @@
+{
+  "name": "orange-guild-manager-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "bcrypt": "5.0.1",
+    "body-parser": "1.19.0",
+    "cors": "2.8.5",
+    "dotenv": "10.0.0",
+    "express": "4.17.1",
+    "express-handlebars": "5.3.2",
+    "jsonwebtoken": "8.5.1",
+    "mongodb": "4.2.0",
+    "mongoose": "6.0.13",
+    "path": "0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
